@@ -25,9 +25,13 @@ After run task:
 
 •	Click on “Load” Button. It will render all the information from given URL in table format.
 Attaching screenshots for the reference.
+
 •	Click on “RESET” Button to Set data to default.
+
 •	Sorting Applied on Headers Column (So when user click on Header column data get sorted accordingly).
+
 •	Style Sheet applied and did Unit testing at my end.
+
 •	Used JavaScript Only as you mentioned in requirement specification.
 
 
