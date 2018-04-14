@@ -16,7 +16,9 @@ Conditions (We will be looking for Best practices using your chosen framework A 
 Pre-run task:
 
 •	Created html file with making call to the given URL.
+
 •	Run application using MAMP.
+
 •	Application having two files one is mail file with JavaScript code and other one is having sorting code.
 
 After run task:
